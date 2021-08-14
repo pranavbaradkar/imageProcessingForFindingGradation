@@ -1,0 +1,5 @@
+image_path,Number of white pixels whole,Number of white pixels voids,Number of white pixels cement,Number of white pixels aggregate,area of v(mm2),area of c(mm2),area of a(mm2),area of whole(mm2)
+G:\my_Ml_projects\image processing\p1.PNG,72981,14271,24954,33862,3905.208860672897,6828.57416503619,9266.216974290914,20000.0
+G:\my_Ml_projects\image processing\p2.PNG,72395,14076,24028,34429,3881.9635962493103,6626.585769442912,9495.03585217871,20003.585217870932
+G:\my_Ml_projects\image processing\p3.PNG,69806,13618,22978,33310,3896.0890338454496,6573.970760735846,9529.940205418705,20000.0
+G:\my_Ml_projects\image processing\p4.PNG,73357,14397,23970,35093,3919.7909009229766,6526.178224291432,9554.575403632009,20000.544528846418
